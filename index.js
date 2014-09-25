@@ -5,7 +5,7 @@ var url = require("url")
 var util = require("util")
 var less = require("less")
 var request = require("request")
-var resolve = require("resolve")
+var resolve = require("resolve-bower")
 
 var isUrlRe = /^(?:https?:)?\/\//i
 var hasQuery = /^(?:[a-z-]+:|\/)/

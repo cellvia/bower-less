@@ -1,4 +1,4 @@
-var resolve = require("resolve")
+var resolve = require("resolve-bower")
 var path = require("path")
 var url = require("url")
 var CompiledFiles = require("compiled-files")

@@ -1,8 +1,8 @@
 var test = require("tape")
 
-var npm-less = require("../index")
+var bowerLess = require("../index")
 
-test("npm-less is a function", function (assert) {
-    assert.equal(typeof npm-less, "function")
+test("bowerLess is a function", function (assert) {
+    assert.equal(typeof bowerLess, "function")
     assert.end()
 })
