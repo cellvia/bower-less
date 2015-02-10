@@ -11,7 +11,7 @@
     "email": "raynos2@gmail.com"
   },
   "dependencies": {
-    "request": "~2.39.0",
+    "request": "^2.53.1",
     "resolve-bower": "~0.0.1",
     "less": "~1.7.4",
     "compiled-files": "~0.1.1"
